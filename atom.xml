@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Learn Forever]]></title>
-  <link href="http://hakanserce.github.io/atom.xml" rel="self"/>
-  <link href="http://hakanserce.github.io/"/>
-  <updated>2017-10-23T14:40:56-07:00</updated>
-  <id>http://hakanserce.github.io/</id>
+  <link href="http://blog.hakanserce.com/atom.xml" rel="self"/>
+  <link href="http://blog.hakanserce.com/"/>
+  <updated>2017-10-23T15:03:38-07:00</updated>
+  <id>http://blog.hakanserce.com/</id>
   <author>
     <name><![CDATA[Hakan Serce]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://hakanserce.github.io/blog/2017/10/23/hello-world/"/>
+    <link href="http://blog.hakanserce.com/blog/2017/10/23/hello-world/"/>
     <updated>2017-10-23T00:42:11-07:00</updated>
-    <id>http://hakanserce.github.io/blog/2017/10/23/hello-world</id>
+    <id>http://blog.hakanserce.com/blog/2017/10/23/hello-world</id>
     <content type="html"><![CDATA[<p>All new programming tutorials start with Hello World! This is not actually a programming tutorial, but the hope is to share a piece of information which could be useful for someone. I wanted to start with Hello World anyway.</p>
 
 <p>This is a project I delayed a very long time, and now it is time. I will try to cover a diverse set of topics including Programming Languages, Touch Typing, Editors, Note Taking and a lot more.</p>
