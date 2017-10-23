@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://blog.hakanserce.com/sitemap.xml 
+Sitemap: http://hakanserce.github.io/sitemap.xml 
